@@ -323,4 +323,8 @@ Slave Node
 
 **Harshwardhan Jadhav**  
 ☁️ DevOps & Cloud Engineer
+<<<<<<< HEAD
 LinkedIN: https://www.linkedin.com/posts/jadhavharshwardhan_devops-ansible-kubernetes-activity-7338274579619950592-FWtp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQgnCoBgMH2PuaEzuGok5YyLx2BNyWlB8E# n-Ansible-Cluster-in-Docker-Container-Kubernetes-Pod
+=======
+LinkedIN: https://www.linkedin.com/posts/jadhavharshwardhan_devops-ansible-kubernetes-activity-7338274579619950592-FWtp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQgnCoBgMH2PuaEzuGok5YyLx2BNyWlB8E
+>>>>>>> 78a56574bb685ec2d0ee20f77a716ea150539b32
